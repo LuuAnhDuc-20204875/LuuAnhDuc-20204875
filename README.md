@@ -1,5 +1,5 @@
 # 💫 About Me:
-VN: I'm from VietNam<br>👀 : Here is my personal website<br>✍️ : There is my blog and articles<br>📧 : Contact me at luuanhduc14062002@gmail.com<br>❤️ : I'm passionate about:<br>🔐 Data Science and AI.<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Backend Developer<br>📝 Writeups and Documenting
+VN: I'm from VietNam<br>👀 : Here is my personal website<br>✍️ : There is my blog and articles<br>📧 : Contact me at luuanhduc14062002@gmail.com<br>❤️ : I'm passionate about:<br>🔐 Data Science and AI.<br>🪐 Operating Systems (Windows & Linux)<br>🖥️ Fresher/Junior AI Engineer, Backend Engineer(Python/FastAPI)<br>📝 Writeups and Documenting
 
 
 ## 🌐 Socials:
